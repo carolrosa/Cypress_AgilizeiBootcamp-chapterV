@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "test_email@mail.com",
+        "username": "ChapterV",
+        "bio": null,
+        "image": null,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1haWxjaGFwQG1haWwuY29tIiwidXNlcm5hbWUiOiJjaGFwdGVyNSIsImlhdCI6MTY1OTA2MDk3MSwiZXhwIjoxNjY0MjQ0OTcxfQ.69R08H9x3bATnXE9RDO_8_3KvnQUirNwxLoxAQ-Z4MQ"
+    }
+}
